@@ -93,6 +93,7 @@ This file controls the bot’s behavior. Below is an example configuration:
 ### 2. `privateKeys.txt` - 🗂️ User's wallet data
 
 - Wallets generator: [Link](https://github.com/MeoMunDep/Automatic-Ultimate-Create-Wallets-for-Airdrop)
+- Solana privatekey
 
 ```txt
 privatekey

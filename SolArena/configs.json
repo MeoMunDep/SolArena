@@ -6,6 +6,6 @@
   "delayEachAccount": [1, 1],
   "timeToRestartAllAccounts": 300,
   "howManyAccountsRunInOneTime": 100,
-  "referral": false,
+  "referral": true,
   "referralCodes": ["bGAxXum"]
 }

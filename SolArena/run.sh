@@ -33,7 +33,6 @@ fi
 create_default_configs() {
     cat > configs.json << EOL
 {
-  "timeZone": "en-US",
   "rotateProxy": false,
   "skipInvalidProxy": false,
   "proxyRotationInterval": 2,

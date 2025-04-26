@@ -67,7 +67,6 @@ This file controls the bot’s behavior. Below is an example configuration:
 
 ```json
 {
-  "timeZone": "en-US",
   "rotateProxy": false,
   "skipInvalidProxy": false,
   "proxyRotationInterval": 2,

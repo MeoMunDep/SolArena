@@ -138,7 +138,7 @@ _Note: each row for each account_
 
 ## Contact and Support
 
-- **Help me with your referral** [Referral Link](https://play.solarena.io/) - Referral Code: ```bash bGAxXum```
+- **Help me with your referral** [Referral Link](https://play.solarena.io/) - Referral Code: `bGAxXum`
 - **Buy me a telegram account** [Here](https://t.me/KeoAirDropFreeNe/312/27801) or [Here](https://github.com/MeoMunDep/MeoMunDep)
 
 If you encounter any issues or have questions, feel free to reach out:

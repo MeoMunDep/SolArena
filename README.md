@@ -38,7 +38,7 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 
 2. **Install Dependencies**
    ```bash
-   npm install --force user-agents axios colors https-proxy-agent socks-proxy-agent tweetnacl crypto-js ws uuid @solana/web3.js bs58
+   npm install --force user-agents axios meo-forkcy-colors meo-forkcy-utils meo-forkcy-proxy tweetnacl crypto-js ws uuid @solana/web3.js bs58
  ```
 
 If Execution Policy error on Windows:

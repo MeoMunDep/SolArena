@@ -1,1 +1,1 @@
-console.log(`The game website is broken, just wait.`)
+console.log(`This game's server is broken, please choose another scripts!`)
